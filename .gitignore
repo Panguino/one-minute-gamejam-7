@@ -1,4 +1,6 @@
 lib
+out
+*.zip
 
 ._.DS_Store
 src/html/images/
@@ -16,6 +18,8 @@ lib-cov
 *.pid
 *.gz
 *.swp
+
+.next
 
 pids
 logs
